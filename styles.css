@@ -1,0 +1,22 @@
+body {
+ background-color: bisque;
+}
+h1{
+    color:brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h3{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    color:orangered;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
